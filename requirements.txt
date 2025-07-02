@@ -1,3 +1,4 @@
-python-telegram-bot>=20.7,<21.0
+python-telegram-bot==20.8
 pandas
 openpyxl
+requests
